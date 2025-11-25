@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.dcm
+*.zip
+*.pdf
+*.docx
+temp_*/
+uploaded_cases/
+templates/
+static/results/*.pdf
+static/results/*.docx
+streamlit_logs/
+rag_index.*
