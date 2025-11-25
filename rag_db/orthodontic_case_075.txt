@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular prognathism
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- Possible disc displacement
+
+DENTAL_ALIGNMENT:
+- Moderate crowding
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Extraction not needed
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- CBCT confirms skeletal imbalance.

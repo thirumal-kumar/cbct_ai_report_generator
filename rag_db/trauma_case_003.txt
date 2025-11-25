@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: maxilla
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Condylar fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- No displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Posterior premature contact
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Root fracture present
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Observation and soft diet
+
+NOTES:
+- Monitor healing progression.

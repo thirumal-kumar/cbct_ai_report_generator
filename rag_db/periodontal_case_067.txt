@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 41
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (1-wall)
+
+BONE_LOSS_SEVERITY:
+- Moderate (3–4 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade I furcation
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- Primary endodontic with secondary periodontal involvement
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Mild gingival inflammation
+
+CALCULUS_PRESENCE:
+- Moderate calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- No effect on adjacent structures
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Periodontal surgery recommended
+
+NOTES:
+- Correlate clinically.

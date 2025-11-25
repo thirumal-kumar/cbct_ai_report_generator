@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 12
+JAW: mandible
+SIDE: left
+
+PROCEDURE_TYPE:
+- Bone grafting
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Partial graft resorption
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- No infection
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Cortical remodeling present
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Bone density increasing
+
+MANAGEMENT_SUGGESTION:
+- Routine follow-up
+
+NOTES:
+- Healing expected to improve.

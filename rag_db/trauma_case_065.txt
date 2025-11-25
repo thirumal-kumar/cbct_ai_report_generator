@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_body
+JAW: mandible
+SIDE: left
+
+TRAUMA_TYPE:
+- Root fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Normal occlusion
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Root fracture present
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Sinus involvement
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Clinical correlation essential.

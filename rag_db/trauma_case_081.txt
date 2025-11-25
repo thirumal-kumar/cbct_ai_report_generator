@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: maxilla
+SIDE: left
+
+TRAUMA_TYPE:
+- Le Fort II fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Possible inferior alveolar nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- No additional findings
+
+MANAGEMENT_SUGGESTION:
+- Observation and soft diet
+
+NOTES:
+- Clinical correlation essential.

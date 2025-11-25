@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 44
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Dentigerous cyst
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Partially corticated with scalloping.
+
+INTERNAL_CONTENT:
+- Honeycomb pattern
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Uniform expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Aneurysmal bone cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Clinical correlation required.

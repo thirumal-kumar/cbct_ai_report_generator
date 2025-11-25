@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 13
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Apicoectomy
+
+HEALING_STATUS:
+- Good healing progression
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Post-op infection present
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Radiolucency in healing region
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- Recommend clinical examination.

@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_ramust
+JAW: mandible
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Le Fort I fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Cortical discontinuity
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Follow-up imaging recommended.

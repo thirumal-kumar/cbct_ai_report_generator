@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: orbit
+JAW: maxilla
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Zygomatic complex fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Posterior premature contact
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Possible dislocation
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- Monitor healing progression.

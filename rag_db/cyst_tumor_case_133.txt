@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 23
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Central giant cell granuloma
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Soap‑bubble appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Uniform expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- No root displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Classic radiographic presentation.

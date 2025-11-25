@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 25
+JAW: mandible
+SIDE: left
+
+PROCEDURE_TYPE:
+- Cyst enucleation
+
+HEALING_STATUS:
+- Healing within normal limits
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Partial graft resorption
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- Severe peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Cortex intact
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Bone density increasing
+
+MANAGEMENT_SUGGESTION:
+- Surgical correction advised
+
+NOTES:
+- Monitor closely.

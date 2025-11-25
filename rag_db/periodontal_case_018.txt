@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 24
+JAW: maxilla
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Combined defect pattern
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical plate intact
+
+ENDOPERIO_RELATIONSHIP:
+- Combined lesion
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- No calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Fair prognosis
+
+MANAGEMENT_SUGGESTION:
+- Oral hygiene reinforcement
+
+NOTES:
+- Monitor progression every 6 months.

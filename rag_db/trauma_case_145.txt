@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: orbit
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Root fracture
+
+FRACTURE_PATTERN:
+- Segmental fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- No dentoalveolar injury
+
+TMJ_STATUS:
+- Articular surface disruption
+
+ASSOCIATED_FINDINGS:
+- Cortical discontinuity
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- Monitor healing progression.

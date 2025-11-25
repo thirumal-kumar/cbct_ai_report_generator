@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: alveolar_process
+JAW: maxilla
+SIDE: left
+
+TRAUMA_TYPE:
+- Root fracture
+
+FRACTURE_PATTERN:
+- Segmental fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue swelling present
+
+AIRWAY_IMPACT:
+- No airway compromise
+
+NEUROVASCULAR_CONCERNS:
+- Possible inferior alveolar nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- No dentoalveolar injury
+
+TMJ_STATUS:
+- Articular surface disruption
+
+ASSOCIATED_FINDINGS:
+- Orbital floor defect
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Monitor healing progression.

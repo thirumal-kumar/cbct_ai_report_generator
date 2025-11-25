@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxilla–Mandible normal
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Mild narrowing
+
+IMPACTION_STATUS:
+- Impacted canine (palatal)
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- Mild internal derangement
+
+DENTAL_ALIGNMENT:
+- Well-aligned dentition
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Root proximity risk
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Surgical–orthodontic approach required
+
+NOTES:
+- Correlate with cephalometric values.

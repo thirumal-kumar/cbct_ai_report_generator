@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxilla–Mandible normal
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class I
+
+VERTICAL_PATTERN:
+- Normal vertical proportions
+
+TRANSVERSE_RELATIONSHIP:
+- No transverse discrepancy
+
+AIRWAY_ANALYSIS:
+- Adequate airway space
+
+IMPACTION_STATUS:
+- No impacted teeth
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to left
+
+TMJ_RELATIONSHIP:
+- Possible disc displacement
+
+DENTAL_ALIGNMENT:
+- Well-aligned dentition
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Comprehensive ortho treatment suggested
+
+NOTES:
+- Soft tissue profile should be considered.

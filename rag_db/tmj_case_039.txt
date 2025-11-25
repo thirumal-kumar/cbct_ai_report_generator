@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: right
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Normal joint space.
+
+CONDYLAR_POSITION:
+- Posteriorly positioned condyle.
+
+ARTICULAR_EMINENCE:
+- Steep eminence.
+
+DISK_POSITION:
+- Medial disk displacement.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction on mouth opening.
+
+DEGENERATION_STATUS:
+- Osteophyte formation noted.
+
+TMJ_ASSESSMENT:
+- TMJ function appears normal.
+
+ORTHO_IMPACT:
+- Occlusal discrepancy related findings.
+
+PATHOLOGY_ASSESSMENT:
+- No osseous destructive lesions.
+
+NOTES:
+- MRI suggested for disk evaluation.

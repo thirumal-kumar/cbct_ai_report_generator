@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Normal joint space.
+
+CONDYLAR_POSITION:
+- Slight anterior positioning.
+
+ARTICULAR_EMINENCE:
+- Mild erosive change on eminence.
+
+DISK_POSITION:
+- Anterior disk displacement with reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction on mouth opening.
+
+DEGENERATION_STATUS:
+- No signs of degenerative joint disease.
+
+TMJ_ASSESSMENT:
+- Signs of internal derangement suspected.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- Mild inflammatory changes.
+
+NOTES:
+- MRI suggested for disk evaluation.

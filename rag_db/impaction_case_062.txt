@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 48
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class II Position A
+
+DEPTH_RELATIONSHIP:
+- Crown at occlusal plane
+
+RAMUS_RELATIONSHIP:
+- Reduced space; moderate difficulty
+
+FINDINGS:
+- Follicular radiolucency mild (2–3 mm).
+
+IMPACTION_ASSESSMENT:
+- Surgical removal recommended.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No periapical abnormalities.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Anatomy suggests moderate surgical difficulty.

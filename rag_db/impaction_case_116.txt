@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 46
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Mesioangular
+
+Pell_and_Gregory_CLASS:
+- Class III C
+
+DEPTH_RELATIONSHIP:
+- Deep impaction
+
+RAMUS_RELATIONSHIP:
+- Severely limited space
+
+FINDINGS:
+- Mild follicular radiolucency.
+
+IMPACTION_ASSESSMENT:
+- High complexity — near IAN canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Mild cystic change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Sectioning likely required.

@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 37
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical integrity preserved; trabecular bone pattern uniform.
+
+BONE_DIMENSIONS:
+- Height: 9.2 mm
+- Width: 5.3 mm
+- Density: D2–D3
+
+FINDINGS:
+- No signs of pathology or bone loss.
+
+IMPLANT_ASSESSMENT:
+- Implant feasible; maintain safety zone from anatomical structures.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- No sinus involvement (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No radiographic pathology detected.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Favorable morphology; straightforward implant planning.

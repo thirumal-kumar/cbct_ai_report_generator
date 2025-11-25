@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: alveolar_process
+JAW: mandible
+SIDE: right
+
+TRAUMA_TYPE:
+- Zygomatic complex fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- CT scan comparison advised.

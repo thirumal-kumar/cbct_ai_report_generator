@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 25
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Well-defined cortical boundaries; sinus or canal proximity noted as applicable.
+
+BONE_DIMENSIONS:
+- Height: 9.6 mm
+- Width: 5.2 mm
+- Density: D2
+
+FINDINGS:
+- Ridge morphology favorable; no abnormal radiolucency.
+
+IMPLANT_ASSESSMENT:
+- Implant possible; evaluate for sinus/canal clearance.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Sinus floor present, ensure adequate vertical clearance.
+
+PATHOLOGY_ASSESSMENT:
+- No signs of pathology or mucosal thickening.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Consistent with typical posterior morphology.

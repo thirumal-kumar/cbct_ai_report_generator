@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 45
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class I Position B
+
+DEPTH_RELATIONSHIP:
+- Deep impaction approaching root apex
+
+RAMUS_RELATIONSHIP:
+- Severe space limitation; high difficulty
+
+FINDINGS:
+- No caries; no root resorption.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic; borderline case.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cystic changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Sectioning likely required.

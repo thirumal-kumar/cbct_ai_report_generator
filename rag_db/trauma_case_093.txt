@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Mandibular fracture
+
+FRACTURE_PATTERN:
+- Comminuted fracture
+
+DISPLACEMENT:
+- No displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- No dentoalveolar injury
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Sinus involvement
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Follow-up imaging recommended.

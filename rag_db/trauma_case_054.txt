@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: maxilla
+SIDE: left
+
+TRAUMA_TYPE:
+- Mandibular fracture
+
+FRACTURE_PATTERN:
+- Segmental fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Posterior premature contact
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Root fracture present
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Sinus involvement
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- Clinical correlation essential.

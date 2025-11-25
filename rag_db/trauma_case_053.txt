@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: mandible
+SIDE: right
+
+TRAUMA_TYPE:
+- Alveolar fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue swelling present
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Possible inferior alveolar nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Normal occlusion
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- Clinical correlation essential.

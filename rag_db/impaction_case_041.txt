@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 38
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Buccolingual tilt
+
+Pell_and_Gregory_CLASS:
+- Class I Position B
+
+DEPTH_RELATIONSHIP:
+- Crown at occlusal plane
+
+RAMUS_RELATIONSHIP:
+- Severe space limitation; high difficulty
+
+FINDINGS:
+- Distal crown caries present.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic; borderline case.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cystic changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Visibility limited; flap elevation required.

@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 13
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Endodontic retreatment
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Post-op infection present
+
+PERI_IMPLANT_CHANGES:
+- Moderate peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Bone density increasing
+
+MANAGEMENT_SUGGESTION:
+- Routine follow-up
+
+NOTES:
+- Monitor closely.

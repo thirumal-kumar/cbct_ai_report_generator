@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 43
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Dentigerous cyst
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Soap‑bubble appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild tooth displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion.
+
+CORTICAL_PLATE_STATUS:
+- Intact cortical plate.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- Marked root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- OKC vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization recommended.
+
+NOTES:
+- Histopathology needed for confirmation.

@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 44
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Endodontic retreatment
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Moderate peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Mild displacement
+
+POST_OP_FINDINGS:
+- Signs of post-op complication
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- Recommend clinical examination.

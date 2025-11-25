@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: mandible
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Zygomatic complex fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- CT scan comparison advised.

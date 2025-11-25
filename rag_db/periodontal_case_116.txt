@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 23
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (1-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade II furcation
+
+CORTICAL_PLATE_STATUS:
+- Dehiscence present
+
+ENDOPERIO_RELATIONSHIP:
+- Primary endodontic with secondary periodontal involvement
+
+PERI_IMPLANT_STATUS:
+- Implant stable with intact bone levels
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Moderate calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Loss of lamina dura
+
+PROGNOSIS:
+- Good prognosis
+
+MANAGEMENT_SUGGESTION:
+- Regenerative therapy suggested
+
+NOTES:
+- Advanced defect – early surgery advisable.

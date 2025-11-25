@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 32
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Apicoectomy
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Partial graft resorption
+
+SINUS_LIFT_STATUS:
+- Schneiderian membrane thickened
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Moderate peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Cortex intact
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Suture space visible
+
+MANAGEMENT_SUGGESTION:
+- Surgical correction advised
+
+NOTES:
+- Monitor closely.

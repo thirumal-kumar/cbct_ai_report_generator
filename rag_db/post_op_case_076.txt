@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 44
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Endodontic retreatment
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Graft intact
+
+SINUS_LIFT_STATUS:
+- Schneiderian membrane thickened
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Mild cortical thinning
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Signs of post-op complication
+
+MANAGEMENT_SUGGESTION:
+- Urgent intervention required
+
+NOTES:
+- Monitor closely.

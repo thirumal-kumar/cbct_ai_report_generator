@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 15
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Endodontic retreatment
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Excellent osseointegration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Mild inflammation
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Stable post-op radiograph
+
+MANAGEMENT_SUGGESTION:
+- Urgent intervention required
+
+NOTES:
+- Recommend clinical examination.

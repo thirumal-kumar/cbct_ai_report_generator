@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 23
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Mild haziness.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Mild thickening (2–4 mm).
+
+SEPTA_PRESENCE:
+- Single septum.
+
+SINUS_ASSESSMENT:
+- Severe inflammation—ENT referral suggested.
+
+IMPLANT_ASSESSMENT:
+- Severe pneumatization—implant planning limited.
+
+ENDO_ASSESSMENT:
+- Minor proximity of lesion to sinus.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological mass.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine case.

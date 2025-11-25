@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_ramust
+JAW: mandible
+SIDE: right
+
+TRAUMA_TYPE:
+- Le Fort III fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue swelling present
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- No additional findings
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Monitor healing progression.

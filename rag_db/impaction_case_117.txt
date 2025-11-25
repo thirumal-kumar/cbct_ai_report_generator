@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 35
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Vertical
+
+Pell_and_Gregory_CLASS:
+- Class II B
+
+DEPTH_RELATIONSHIP:
+- Superficial
+
+RAMUS_RELATIONSHIP:
+- Adequate space
+
+FINDINGS:
+- Possible resorption on adjacent molar.
+
+IMPACTION_ASSESSMENT:
+- Moderate surgical complexity.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Granulomatous suspicion.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Nerve proximity requires caution.

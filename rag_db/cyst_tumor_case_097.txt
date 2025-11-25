@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 14
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Radicular cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Partially corticated; scalloped margin.
+
+INTERNAL_CONTENT:
+- Multilocular radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- No displacement noted.
+
+EXPANSION_PATTERN:
+- Multidirectional expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate root shifting.
+
+RESORPTION:
+- Severe root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation recommended.
+
+NOTES:
+- Follow-up imaging recommended.

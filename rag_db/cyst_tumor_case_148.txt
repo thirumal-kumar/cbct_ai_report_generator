@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 24
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Partially corticated with scalloping.
+
+INTERNAL_CONTENT:
+- Soap‑bubble appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild tooth displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion.
+
+CORTICAL_PLATE_STATUS:
+- Thinned cortex.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- No root displacement.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- AOT vs Dentigerous cyst
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision advised.
+
+NOTES:
+- Large lesion; monitor healing post‑op.

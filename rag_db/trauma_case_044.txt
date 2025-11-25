@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: alveolar_process
+JAW: maxilla
+SIDE: left
+
+TRAUMA_TYPE:
+- Le Fort I fracture
+
+FRACTURE_PATTERN:
+- Comminuted fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- No airway compromise
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- No dentoalveolar injury
+
+TMJ_STATUS:
+- Articular surface disruption
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- Clinical correlation essential.

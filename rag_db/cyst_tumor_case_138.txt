@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 13
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Multilocular radiolucency
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- No displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- AOT vs Dentigerous cyst
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision advised.
+
+NOTES:
+- Large lesion; monitor healing post‑op.

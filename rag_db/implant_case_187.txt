@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 15
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Cortical borders distinct; trabecular density consistent; no structural defects.
+
+BONE_DIMENSIONS:
+- Height: 9.5 mm
+- Width: 5.3 mm
+- Density: D2
+
+FINDINGS:
+- No lesions; bone structure compatible with implant therapy.
+
+IMPLANT_ASSESSMENT:
+- Adequate vertical and horizontal dimensions for implant.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Maintain sinus clearance.
+
+PATHLOGY_ASSESSMENT:
+- No abnormal radiographic findings.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Expected favorable conditions for implant planning.

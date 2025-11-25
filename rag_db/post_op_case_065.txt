@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 17
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Cyst enucleation
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Graft intact
+
+SINUS_LIFT_STATUS:
+- Lift stable without complications
+
+POST_OP_INFECTION_STATUS:
+- No infection
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Stable post-op radiograph
+
+MANAGEMENT_SUGGESTION:
+- Antibiotic therapy
+
+NOTES:
+- Healing expected to improve.

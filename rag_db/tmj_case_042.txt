@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Widened joint space suggesting effusion.
+
+CONDYLAR_POSITION:
+- Posteriorly positioned condyle.
+
+ARTICULAR_EMINENCE:
+- Mild erosive change on eminence.
+
+DISK_POSITION:
+- Anterior disk displacement without reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Normal functional relationship.
+
+DEGENERATION_STATUS:
+- Osteophyte formation noted.
+
+TMJ_ASSESSMENT:
+- TMJ function appears normal.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- No osseous destructive lesions.
+
+NOTES:
+- Mild joint remodeling noted.

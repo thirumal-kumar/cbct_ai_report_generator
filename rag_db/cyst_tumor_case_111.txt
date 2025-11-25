@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 15
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Calcifying odontogenic cyst
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Partially corticated with scalloping.
+
+INTERNAL_CONTENT:
+- Mixed radiolucent–radiopaque
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Uniform expansion.
+
+CORTICAL_PLATE_STATUS:
+- Thinned cortex.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- No root displacement.
+
+RESORPTION:
+- Marked root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision advised.
+
+NOTES:
+- Clinical correlation required.

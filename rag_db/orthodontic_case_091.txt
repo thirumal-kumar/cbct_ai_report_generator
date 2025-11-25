@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 1)
+
+VERTICAL_PATTERN:
+- Normal vertical proportions
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Mild narrowing
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- Possible disc displacement
+
+DENTAL_ALIGNMENT:
+- Mild crowding
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Severe crowding may complicate movement
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- CBCT confirms skeletal imbalance.

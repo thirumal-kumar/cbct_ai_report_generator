@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 32
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Moderate (3–4 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical plate intact
+
+ENDOPERIO_RELATIONSHIP:
+- Primary periodontal with secondary endodontic involvement
+
+PERI_IMPLANT_STATUS:
+- Peri-implant mucositis
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- Moderate calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Good prognosis
+
+MANAGEMENT_SUGGESTION:
+- Implant evaluation if hopeless
+
+NOTES:
+- Advanced defect – early surgery advisable.

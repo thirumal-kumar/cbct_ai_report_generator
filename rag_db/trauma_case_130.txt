@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_angle
+JAW: mandible
+SIDE: right
+
+TRAUMA_TYPE:
+- Alveolar fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Possible inferior alveolar nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Root fracture present
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- No additional findings
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Clinical correlation essential.

@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_body
+JAW: mandible
+SIDE: left
+
+TRAUMA_TYPE:
+- Zygomatic complex fracture
+
+FRACTURE_PATTERN:
+- Non-displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Normal occlusion
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Orbital floor defect
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Follow-up imaging recommended.

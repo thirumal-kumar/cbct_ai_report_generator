@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: alveolar_process
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Alveolar fracture
+
+FRACTURE_PATTERN:
+- Segmental fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue swelling present
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Posterior premature contact
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Possible dislocation
+
+ASSOCIATED_FINDINGS:
+- Sinus involvement
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- CT scan comparison advised.

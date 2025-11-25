@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 27
+JAW: maxilla
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (2-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical thinning noted
+
+ENDOPERIO_RELATIONSHIP:
+- Primary periodontal with secondary endodontic involvement
+
+PERI_IMPLANT_STATUS:
+- Peri-implant mucositis
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Moderate calculus
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Loss of lamina dura
+
+PROGNOSIS:
+- Questionable prognosis
+
+MANAGEMENT_SUGGESTION:
+- Implant evaluation if hopeless
+
+NOTES:
+- Correlate clinically.

@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: orbit
+JAW: mandible
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Le Fort II fracture
+
+FRACTURE_PATTERN:
+- Simple fracture
+
+DISPLACEMENT:
+- No displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Normal occlusion
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Possible dislocation
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Monitor healing progression.

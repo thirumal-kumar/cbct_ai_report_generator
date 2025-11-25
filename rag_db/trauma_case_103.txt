@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: alveolar_process
+JAW: maxilla
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Le Fort III fracture
+
+FRACTURE_PATTERN:
+- Simple fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- No airway compromise
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Cortical discontinuity
+
+MANAGEMENT_SUGGESTION:
+- Observation and soft diet
+
+NOTES:
+- Monitor healing progression.

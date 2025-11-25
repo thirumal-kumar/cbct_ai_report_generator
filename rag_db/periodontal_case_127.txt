@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 31
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (2-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical thinning noted
+
+ENDOPERIO_RELATIONSHIP:
+- Combined lesion
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Pocketing consistent with bone loss
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Implant evaluation if hopeless
+
+NOTES:
+- Radiographic confirmation required.

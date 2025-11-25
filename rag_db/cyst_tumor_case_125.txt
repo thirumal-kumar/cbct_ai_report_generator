@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 15
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Partially corticated with scalloping.
+
+INTERNAL_CONTENT:
+- Mixed radiolucent–radiopaque
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Cortical thinning with mild expansion.
+
+CORTICAL_PLATE_STATUS:
+- Thinned cortex.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Severe displacement.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Biopsy necessary for confirmation.
+
+NOTES:
+- Histopathology needed for confirmation.

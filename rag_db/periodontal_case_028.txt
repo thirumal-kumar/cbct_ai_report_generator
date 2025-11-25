@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 32
+JAW: mandible
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (3-wall)
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Dehiscence present
+
+ENDOPERIO_RELATIONSHIP:
+- No endo-perio lesion
+
+PERI_IMPLANT_STATUS:
+- Peri-implant mucositis
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Scaling and root planing
+
+NOTES:
+- Correlate clinically.

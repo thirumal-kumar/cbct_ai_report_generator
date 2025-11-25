@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 26
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Uniform cortical outline; adequate cancellous volume; anatomical landmarks preserved.
+
+BONE_DIMENSIONS:
+- Height: 11.0 mm
+- Width: 5.9 mm
+- Density: D2–D3
+
+FINDINGS:
+- No lesions; bone contours normal.
+
+IMPLANT_ASSESSMENT:
+- Favorable for implant; verify clearance to canal or sinus.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Sinus floor present; maintain 2–3 mm clearance.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological changes present.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Straightforward implant planning expected.

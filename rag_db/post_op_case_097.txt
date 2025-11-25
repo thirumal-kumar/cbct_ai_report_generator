@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 37
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Sinus lift
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Graft intact
+
+SINUS_LIFT_STATUS:
+- Schneiderian membrane thickened
+
+POST_OP_INFECTION_STATUS:
+- Post-op infection present
+
+PERI_IMPLANT_CHANGES:
+- Moderate peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Mild inflammation
+
+CORTICAL_STATUS:
+- Cortex intact
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Stable post-op radiograph
+
+MANAGEMENT_SUGGESTION:
+- Surgical correction advised
+
+NOTES:
+- CBCT confirms post-op stability.

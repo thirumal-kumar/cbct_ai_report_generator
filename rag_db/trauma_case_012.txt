@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: zygomatic_arch
+JAW: mandible
+SIDE: left
+
+TRAUMA_TYPE:
+- Zygomatic complex fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- Possible dislocation
+
+ASSOCIATED_FINDINGS:
+- Cortical discontinuity
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- CT scan comparison advised.

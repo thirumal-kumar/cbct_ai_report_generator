@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 11
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Trauma fixation
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Partial graft resorption
+
+SINUS_LIFT_STATUS:
+- Schneiderian membrane thickened
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Severe peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Mild inflammation
+
+CORTICAL_STATUS:
+- Cortical remodeling present
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Stable post-op radiograph
+
+MANAGEMENT_SUGGESTION:
+- Antibiotic therapy
+
+NOTES:
+- Healing expected to improve.

@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Widened joint space with suspected effusion.
+
+CONDYLAR_POSITION:
+- Anteriorly positioned.
+
+ARTICULAR_EMINENCE:
+- Steep eminence.
+
+DISK_POSITION:
+- Anterior displacement without reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction; limited mouth opening.
+
+DEGENERATION_STATUS:
+- No degenerative change.
+
+TMJ_ASSESSMENT:
+- Advanced degenerative TMJ changes.
+
+ORTHO_IMPACT:
+- Possible mandibular deviation due to condylar asymmetry.
+
+PATHOLOGY_ASSESSMENT:
+- Possible degenerative remodeling.
+
+NOTES:
+- Joint spaces mostly preserved.

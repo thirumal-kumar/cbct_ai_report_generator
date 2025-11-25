@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 35
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Orthognathic surgery
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- No infection
+
+PERI_IMPLANT_CHANGES:
+- Moderate peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Cortex intact
+
+ADJACENT_TEETH_EFFECT:
+- Mild displacement
+
+POST_OP_FINDINGS:
+- Signs of post-op complication
+
+MANAGEMENT_SUGGESTION:
+- Urgent intervention required
+
+NOTES:
+- Monitor closely.

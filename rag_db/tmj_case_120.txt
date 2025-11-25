@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Reduced superior joint space.
+
+CONDYLAR_POSITION:
+- Superior loading pattern noted.
+
+ARTICULAR_EMINENCE:
+- Normal eminence morphology.
+
+DISK_POSITION:
+- Anterior displacement with reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction; limited mouth opening.
+
+DEGENERATION_STATUS:
+- Moderate osteophyte formation.
+
+TMJ_ASSESSMENT:
+- TMJ anatomy within normal limits.
+
+ORTHO_IMPACT:
+- Occlusal plane discrepancy related to joint condition.
+
+PATHOLOGY_ASSESSMENT:
+- No pathology.
+
+NOTES:
+- MRI recommended for disk evaluation.

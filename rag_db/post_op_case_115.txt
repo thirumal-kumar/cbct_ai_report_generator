@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 15
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Trauma fixation
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Overextension beyond apex
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Suture space visible
+
+MANAGEMENT_SUGGESTION:
+- Antibiotic therapy
+
+NOTES:
+- CBCT confirms post-op stability.

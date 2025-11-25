@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Reduced superior joint space.
+
+CONDYLAR_POSITION:
+- Posteriorly positioned.
+
+ARTICULAR_EMINENCE:
+- Flattened eminence.
+
+DISK_POSITION:
+- Normal disk morphology.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Altered movement with clicking.
+
+DEGENERATION_STATUS:
+- No degenerative change.
+
+TMJ_ASSESSMENT:
+- Moderate TMJ dysfunction.
+
+ORTHO_IMPACT:
+- Occlusal plane discrepancy related to joint condition.
+
+PATHOLOGY_ASSESSMENT:
+- Possible degenerative remodeling.
+
+NOTES:
+- Joint spaces mostly preserved.

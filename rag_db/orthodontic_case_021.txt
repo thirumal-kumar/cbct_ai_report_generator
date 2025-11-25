@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 2)
+
+VERTICAL_PATTERN:
+- Hypodivergent (short face)
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (palatal)
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- Mild internal derangement
+
+DENTAL_ALIGNMENT:
+- Mild crowding
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Comprehensive ortho treatment suggested
+
+NOTES:
+- Correlate with cephalometric values.

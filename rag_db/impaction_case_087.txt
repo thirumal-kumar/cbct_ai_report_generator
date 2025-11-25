@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 35
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class I Position A
+
+DEPTH_RELATIONSHIP:
+- Crown at CEJ level
+
+RAMUS_RELATIONSHIP:
+- Adequate space between ramus and distal crown
+
+FINDINGS:
+- No caries; no root resorption.
+
+IMPACTION_ASSESSMENT:
+- High difficulty; proximity to nerve canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Mild follicular expansion.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Anatomy suggests moderate surgical difficulty.

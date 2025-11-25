@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 38
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Vertical
+
+Pell_and_Gregory_CLASS:
+- Class I B
+
+DEPTH_RELATIONSHIP:
+- Deep impaction
+
+RAMUS_RELATIONSHIP:
+- Severely limited space
+
+FINDINGS:
+- Caries on distal crown.
+
+IMPACTION_ASSESSMENT:
+- Consider coronectomy.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cortical breach.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Nerve proximity requires caution.

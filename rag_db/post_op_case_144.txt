@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 43
+JAW: mandible
+SIDE: left
+
+PROCEDURE_TYPE:
+- Implant placement
+
+HEALING_STATUS:
+- Good healing progression
+
+IMPLANT_INTEGRATION:
+- Excellent osseointegration
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Radiolucency in healing region
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- CBCT confirms post-op stability.

@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 15
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Endodontic retreatment
+
+HEALING_STATUS:
+- Healing within normal limits
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Cortical remodeling present
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Radiolucency in healing region
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- Healing expected to improve.

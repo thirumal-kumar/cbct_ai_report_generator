@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Widened joint space with suspected effusion.
+
+CONDYLAR_POSITION:
+- Superior loading pattern noted.
+
+ARTICULAR_EMINENCE:
+- Normal eminence morphology.
+
+DISK_POSITION:
+- Posterior displacement.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction; limited mouth opening.
+
+DEGENERATION_STATUS:
+- No degenerative change.
+
+TMJ_ASSESSMENT:
+- TMJ anatomy within normal limits.
+
+ORTHO_IMPACT:
+- Possible mandibular deviation due to condylar asymmetry.
+
+PATHOLOGY_ASSESSMENT:
+- Mild inflammatory changes.
+
+NOTES:
+- Joint spaces mostly preserved.

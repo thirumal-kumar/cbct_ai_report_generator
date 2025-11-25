@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: maxilla
+JAW: maxilla
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Condylar fracture
+
+FRACTURE_PATTERN:
+- Displaced fracture
+
+DISPLACEMENT:
+- Mild displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue swelling present
+
+AIRWAY_IMPACT:
+- Severe airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- Articular surface disruption
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Monitor healing progression.

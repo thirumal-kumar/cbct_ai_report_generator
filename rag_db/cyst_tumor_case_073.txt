@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 46
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Partially corticated; scalloped margin.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild displacement of teeth.
+
+EXPANSION_PATTERN:
+- Significant expansion causing cortical thinning.
+
+CORTICAL_PLATE_STATUS:
+- Cortex intact.
+
+PERFORATION_STATUS:
+- Clear cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Roots displaced mildly.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Biopsy for confirmation.
+
+NOTES:
+- Correlate clinically and histopathologically.

@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 41
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Sinus lift
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- Severe peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Mild inflammation
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Suture space visible
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- Healing expected to improve.

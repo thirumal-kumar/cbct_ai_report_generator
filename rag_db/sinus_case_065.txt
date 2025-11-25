@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 26
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Mild haziness.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Fully obstructed.
+
+MUCOSAL_THICKENING:
+- Mild thickening (2–4 mm).
+
+SEPTA_PRESENCE:
+- Multiple septa noted.
+
+SINUS_ASSESSMENT:
+- Moderate sinus inflammation.
+
+IMPLANT_ASSESSMENT:
+- Significant pneumatization limiting implant height.
+
+ENDO_ASSESSMENT:
+- Endodontic lesion likely affecting sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- Retention cyst suspected.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine maxillary sinus pattern.

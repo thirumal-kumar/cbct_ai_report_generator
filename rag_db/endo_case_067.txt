@@ -1,0 +1,34 @@
+CASE_TYPE: endodontic
+REGION: 14
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Normal trabecular architecture; cortical plates intact.
+
+CANAL_MORPHOLOGY:
+- Severely curved canal (>30°)
+
+PERIAPICAL_STATUS:
+- Small periapical radiolucency (2–3 mm).
+
+FINDINGS:
+- No fracture lines; no external resorption detected.
+
+ENDO_ASSESSMENT:
+- Root canal treatment indicated depending on symptoms; morphology accessible.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Maxillary sinus floor not involved.
+
+PATHOLOGY_ASSESSMENT:
+- No cystic or granulomatous changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine endodontic morphology; adequate access anticipated.

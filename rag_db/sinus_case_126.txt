@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 27
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Moderate opacity suggestive of inflammation.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- No thickening (<2 mm).
+
+SEPTA_PRESENCE:
+- Single septum.
+
+SINUS_ASSESSMENT:
+- Normal sinus anatomy.
+
+IMPLANT_ASSESSMENT:
+- Reduced height—consider sinus lift.
+
+ENDO_ASSESSMENT:
+- No endodontic involvement.
+
+PATHOLOGY_ASSESSMENT:
+- Possible retention cyst.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Implant planning requires height evaluation.

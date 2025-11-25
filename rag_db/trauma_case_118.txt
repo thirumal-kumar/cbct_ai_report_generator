@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_condyle
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Alveolar fracture
+
+FRACTURE_PATTERN:
+- Displaced fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Sinus involvement
+
+MANAGEMENT_SUGGESTION:
+- Observation and soft diet
+
+NOTES:
+- CT scan comparison advised.

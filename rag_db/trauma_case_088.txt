@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_body
+JAW: maxilla
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Root fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- No airway compromise
+
+NEUROVASCULAR_CONCERNS:
+- Possible inferior alveolar nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Follow-up imaging recommended.

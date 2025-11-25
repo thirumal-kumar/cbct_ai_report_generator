@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Widened joint space with suspected effusion.
+
+CONDYLAR_POSITION:
+- Anteriorly positioned.
+
+ARTICULAR_EMINENCE:
+- Small erosive change present.
+
+DISK_POSITION:
+- Anterior displacement with reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Altered movement with clicking.
+
+DEGENERATION_STATUS:
+- No degenerative change.
+
+TMJ_ASSESSMENT:
+- Internal derangement suspected.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- Mild inflammatory changes.
+
+NOTES:
+- MRI recommended for disk evaluation.

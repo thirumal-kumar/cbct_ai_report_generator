@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Hypodivergent (short face)
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Adequate airway space
+
+IMPACTION_STATUS:
+- Impacted canine (palatal)
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to right
+
+TMJ_RELATIONSHIP:
+- Possible disc displacement
+
+DENTAL_ALIGNMENT:
+- Spacing present
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Severe crowding may complicate movement
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- CBCT confirms skeletal imbalance.

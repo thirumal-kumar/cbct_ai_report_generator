@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 35
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Ameloblastoma
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Significant displacement of adjacent structures.
+
+EXPANSION_PATTERN:
+- Multidirectional expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortex intact.
+
+PERFORATION_STATUS:
+- Clear cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Roots displaced mildly.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- AOT vs Dentigerous cyst
+
+RECOMMENDED_MANAGEMENT:
+- Biopsy for confirmation.
+
+NOTES:
+- Correlate clinically and histopathologically.

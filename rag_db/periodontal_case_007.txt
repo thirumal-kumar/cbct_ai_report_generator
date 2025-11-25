@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 15
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade I furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical thinning noted
+
+ENDOPERIO_RELATIONSHIP:
+- Primary endodontic with secondary periodontal involvement
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Heavy calculus deposition
+
+CROWN_ROOT_RATIO:
+- Unfavorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- No effect on adjacent structures
+
+PROGNOSIS:
+- Questionable prognosis
+
+MANAGEMENT_SUGGESTION:
+- Scaling and root planing
+
+NOTES:
+- Monitor progression every 6 months.

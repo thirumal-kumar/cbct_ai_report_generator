@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_angle
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Le Fort II fracture
+
+FRACTURE_PATTERN:
+- Simple fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- No additional findings
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Monitor healing progression.

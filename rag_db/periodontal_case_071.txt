@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 11
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (1-wall)
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical plate intact
+
+ENDOPERIO_RELATIONSHIP:
+- Primary periodontal with secondary endodontic involvement
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Questionable prognosis
+
+MANAGEMENT_SUGGESTION:
+- Implant evaluation if hopeless
+
+NOTES:
+- Radiographic confirmation required.

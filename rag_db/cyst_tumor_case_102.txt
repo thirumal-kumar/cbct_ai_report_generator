@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 14
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Ameloblastoma
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Soap‑bubble appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild tooth displacement.
+
+EXPANSION_PATTERN:
+- Severe expansion in all directions.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- OKC vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization recommended.
+
+NOTES:
+- Clinical correlation required.

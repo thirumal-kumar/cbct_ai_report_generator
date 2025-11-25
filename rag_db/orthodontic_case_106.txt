@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Normal vertical proportions
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ anatomy normal
+
+DENTAL_ALIGNMENT:
+- Mild crowding
+
+ROOT_PARALLELISM:
+- Severe divergence
+
+ORTHO_RISK_FACTORS:
+- No major risks
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- Soft tissue profile should be considered.

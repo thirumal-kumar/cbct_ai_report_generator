@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 22
+JAW: mandible
+SIDE: left
+
+PROCEDURE_TYPE:
+- Trauma fixation
+
+HEALING_STATUS:
+- Early healing stage
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Lift stable without complications
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Cortex intact
+
+ADJACENT_TEETH_EFFECT:
+- Mild displacement
+
+POST_OP_FINDINGS:
+- Signs of post-op complication
+
+MANAGEMENT_SUGGESTION:
+- Routine follow-up
+
+NOTES:
+- Healing expected to improve.

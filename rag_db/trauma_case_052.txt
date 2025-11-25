@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_body
+JAW: mandible
+SIDE: left
+
+TRAUMA_TYPE:
+- Mandibular fracture
+
+FRACTURE_PATTERN:
+- Displaced fracture
+
+DISPLACEMENT:
+- No displacement
+
+SOFT_TISSUE_STATUS:
+- Soft tissue intact
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Lingual nerve proximity
+
+OCCLUSAL_DISTURBANCE:
+- Posterior premature contact
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Root fracture present
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- Orbital floor defect
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Follow-up imaging recommended.

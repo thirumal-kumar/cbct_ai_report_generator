@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 14
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Combined defect pattern
+
+BONE_LOSS_SEVERITY:
+- Moderate (3–4 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Cortical plate intact
+
+ENDOPERIO_RELATIONSHIP:
+- No endo-perio lesion
+
+PERI_IMPLANT_STATUS:
+- Peri-implant mucositis
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- No calculus
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Regenerative therapy suggested
+
+NOTES:
+- Monitor progression every 6 months.

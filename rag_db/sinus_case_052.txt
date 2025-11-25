@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 17
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Severe opacity indicating sinusitis.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- Mild thickening (2–4 mm).
+
+SEPTA_PRESENCE:
+- Single septum present.
+
+SINUS_ASSESSMENT:
+- Severe sinus opacification—ENT correlation advised.
+
+IMPLANT_ASSESSMENT:
+- Significant pneumatization limiting implant height.
+
+ENDO_ASSESSMENT:
+- Mild proximity of endodontic lesion to sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- Possible polypoid change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine maxillary sinus pattern.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 35
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Horizontal
+
+Pell_and_Gregory_CLASS:
+- Class I Position A
+
+DEPTH_RELATIONSHIP:
+- Crown at occlusal plane
+
+RAMUS_RELATIONSHIP:
+- Reduced space; moderate difficulty
+
+FINDINGS:
+- Distal crown caries present.
+
+IMPACTION_ASSESSMENT:
+- High difficulty; proximity to nerve canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Possible early cyst formation.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Visibility limited; flap elevation required.

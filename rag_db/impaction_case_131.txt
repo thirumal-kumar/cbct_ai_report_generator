@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 38
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Horizontal
+
+Pell_and_Gregory_CLASS:
+- Class II A
+
+DEPTH_RELATIONSHIP:
+- Moderate depth
+
+RAMUS_RELATIONSHIP:
+- Reduced space
+
+FINDINGS:
+- Caries on distal crown.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cortical breach.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Sectioning likely required.

@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 26
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (3-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- Primary periodontal with secondary endodontic involvement
+
+PERI_IMPLANT_STATUS:
+- Peri-implantitis with bone loss
+
+SOFT_TISSUE_STATUS:
+- Mild gingival inflammation
+
+CALCULUS_PRESENCE:
+- Heavy calculus deposition
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Good prognosis
+
+MANAGEMENT_SUGGESTION:
+- Periodontal surgery recommended
+
+NOTES:
+- Radiographic confirmation required.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 34
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Mesioangular
+
+Pell_and_Gregory_CLASS:
+- Class III C
+
+DEPTH_RELATIONSHIP:
+- Superficial
+
+RAMUS_RELATIONSHIP:
+- Reduced space
+
+FINDINGS:
+- Mucosal thickening around follicle.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cortical breach.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Nerve proximity requires caution.

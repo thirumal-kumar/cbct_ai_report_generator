@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 36
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Orthognathic surgery
+
+HEALING_STATUS:
+- Good healing progression
+
+IMPLANT_INTEGRATION:
+- Excellent osseointegration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Mild cortical thinning
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Signs of post-op complication
+
+MANAGEMENT_SUGGESTION:
+- Routine follow-up
+
+NOTES:
+- Monitor closely.

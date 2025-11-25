@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 23
+JAW: mandible
+SIDE: right
+
+PROCEDURE_TYPE:
+- Trauma fixation
+
+HEALING_STATUS:
+- Delayed healing
+
+IMPLANT_INTEGRATION:
+- Acceptable integration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Soft tissue closed and healthy
+
+CORTICAL_STATUS:
+- Cortical remodeling present
+
+ADJACENT_TEETH_EFFECT:
+- No effect on adjacent teeth
+
+POST_OP_FINDINGS:
+- Stable post-op radiograph
+
+MANAGEMENT_SUGGESTION:
+- Re-evaluation in 2 weeks
+
+NOTES:
+- Healing expected to improve.

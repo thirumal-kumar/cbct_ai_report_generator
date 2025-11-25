@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 34
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Vertical
+
+Pell_and_Gregory_CLASS:
+- Class II Position B
+
+DEPTH_RELATIONSHIP:
+- Crown at CEJ level
+
+RAMUS_RELATIONSHIP:
+- Adequate space between ramus and distal crown
+
+FINDINGS:
+- External resorption on adjacent molar suspected.
+
+IMPACTION_ASSESSMENT:
+- Extraction feasible; minimal curvature.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Possible early cyst formation.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine impaction morphology.

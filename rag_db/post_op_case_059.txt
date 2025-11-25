@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 45
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Cyst enucleation
+
+HEALING_STATUS:
+- Healing within normal limits
+
+IMPLANT_INTEGRATION:
+- Early signs of failure
+
+GRAFT_STATUS:
+- Graft intact
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- No peri-implant bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Cortical perforation
+
+ADJACENT_TEETH_EFFECT:
+- Root resorption on adjacent tooth
+
+POST_OP_FINDINGS:
+- Radiolucency in healing region
+
+MANAGEMENT_SUGGESTION:
+- Routine follow-up
+
+NOTES:
+- Recommend clinical examination.

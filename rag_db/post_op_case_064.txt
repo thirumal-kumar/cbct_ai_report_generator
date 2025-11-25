@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 46
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Orthognathic surgery
+
+HEALING_STATUS:
+- Good healing progression
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Schneiderian membrane thickened
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Open wound with delayed healing
+
+CORTICAL_STATUS:
+- Mild cortical thinning
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Radiolucency in healing region
+
+MANAGEMENT_SUGGESTION:
+- Antibiotic therapy
+
+NOTES:
+- Healing expected to improve.

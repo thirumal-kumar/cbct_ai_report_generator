@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Slightly reduced anterior joint space.
+
+CONDYLAR_POSITION:
+- Slight anterior positioning.
+
+ARTICULAR_EMINENCE:
+- Flattened eminence.
+
+DISK_POSITION:
+- Normal biconcave disk; normal position.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Normal functional relationship.
+
+DEGENERATION_STATUS:
+- Mild cortical irregularity.
+
+TMJ_ASSESSMENT:
+- TMJ function appears normal.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- No TMJ pathology.
+
+NOTES:
+- Mild joint remodeling noted.

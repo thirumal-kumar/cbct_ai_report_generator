@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 17
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade I furcation
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- Combined lesion
+
+PERI_IMPLANT_STATUS:
+- Peri-implantitis with bone loss
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- No effect on adjacent structures
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Periodontal surgery recommended
+
+NOTES:
+- Correlate clinically.

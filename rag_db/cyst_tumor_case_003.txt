@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 15
+JAW: mandible
+SIDE: left
+
+LESION_TYPE:
+- Calcifying odontogenic cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Honeycomb appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild displacement of teeth.
+
+EXPANSION_PATTERN:
+- Significant expansion causing cortical thinning.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate root shifting.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision indicated.
+
+NOTES:
+- Classic radiographic presentation.

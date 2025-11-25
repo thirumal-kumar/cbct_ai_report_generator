@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 45
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Dentigerous cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Ill-defined non-corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Inferior alveolar canal displacement.
+
+EXPANSION_PATTERN:
+- Minimal expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Possible perforation.
+
+DISPLACEMENT_ROOTS:
+- Severe displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization advised.
+
+NOTES:
+- Follow-up imaging recommended.

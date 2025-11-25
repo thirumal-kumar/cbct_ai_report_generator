@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 33
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Adenomatoid odontogenic tumor
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Multilocular radiolucency
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Uniform expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- No root displacement.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Aneurysmal bone cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Clinical correlation required.

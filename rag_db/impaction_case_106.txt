@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 46
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class II B
+
+DEPTH_RELATIONSHIP:
+- Superficial
+
+RAMUS_RELATIONSHIP:
+- Severely limited space
+
+FINDINGS:
+- Caries on distal crown.
+
+IMPACTION_ASSESSMENT:
+- Moderate surgical complexity.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Granulomatous suspicion.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Standard impaction morphology.

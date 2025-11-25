@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Hyperdivergent (long face)
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Adequate airway space
+
+IMPACTION_STATUS:
+- Multiple impactions
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Moderate crowding
+
+ROOT_PARALLELISM:
+- Good root angulation
+
+ORTHO_RISK_FACTORS:
+- Root proximity risk
+
+EXTRACTION_CONSIDERATION:
+- Non-extraction camouflage treatment
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- Soft tissue profile should be considered.

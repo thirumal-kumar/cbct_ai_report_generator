@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 13
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (1-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- No endo-perio lesion
+
+PERI_IMPLANT_STATUS:
+- Implant stable with intact bone levels
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Questionable prognosis
+
+MANAGEMENT_SUGGESTION:
+- Oral hygiene reinforcement
+
+NOTES:
+- Classic periodontal presentation.

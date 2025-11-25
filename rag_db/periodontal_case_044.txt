@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 23
+JAW: maxilla
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (2-wall)
+
+BONE_LOSS_SEVERITY:
+- Mild (1–2 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Dehiscence present
+
+ENDOPERIO_RELATIONSHIP:
+- No endo-perio lesion
+
+PERI_IMPLANT_STATUS:
+- Peri-implantitis with bone loss
+
+SOFT_TISSUE_STATUS:
+- Recession present
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Fair prognosis
+
+MANAGEMENT_SUGGESTION:
+- Implant evaluation if hopeless
+
+NOTES:
+- Advanced defect – early surgery advisable.

@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 36
+JAW: maxilla
+SIDE: right
+
+PROCEDURE_TYPE:
+- Orthognathic surgery
+
+HEALING_STATUS:
+- Healing within normal limits
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Graft displaced
+
+SINUS_LIFT_STATUS:
+- Small perforation suspected
+
+POST_OP_INFECTION_STATUS:
+- Mild peri-apical inflammation
+
+PERI_IMPLANT_CHANGES:
+- Mild crestal bone loss
+
+ENDODONTIC_RETRY_STATUS:
+- Void present in obturation
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Mild cortical thinning
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Suture space visible
+
+MANAGEMENT_SUGGESTION:
+- Surgical correction advised
+
+NOTES:
+- Recommend clinical examination.

@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 44
+JAW: maxilla
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Dehiscence present
+
+ENDOPERIO_RELATIONSHIP:
+- Combined lesion
+
+PERI_IMPLANT_STATUS:
+- Peri-implant mucositis
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Questionable prognosis
+
+MANAGEMENT_SUGGESTION:
+- Oral hygiene reinforcement
+
+NOTES:
+- Monitor progression every 6 months.

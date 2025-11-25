@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 15
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Clear sinus.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- Severe thickening (>6 mm).
+
+SEPTA_PRESENCE:
+- Multiple septa.
+
+SINUS_ASSESSMENT:
+- Normal sinus anatomy.
+
+IMPLANT_ASSESSMENT:
+- Severe pneumatization—implant planning limited.
+
+ENDO_ASSESSMENT:
+- No endodontic involvement.
+
+PATHOLOGY_ASSESSMENT:
+- Possible retention cyst.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Implant planning requires height evaluation.

@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 15
+JAW: mandible
+SIDE: left
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- Primary periodontal with secondary endodontic involvement
+
+PERI_IMPLANT_STATUS:
+- Peri-implantitis with bone loss
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- Mild calculus
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Loss of lamina dura
+
+PROGNOSIS:
+- Poor prognosis
+
+MANAGEMENT_SUGGESTION:
+- Regenerative therapy suggested
+
+NOTES:
+- Advanced defect – early surgery advisable.

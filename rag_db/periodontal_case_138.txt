@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 32
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Moderate (3–4 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Cortical plate intact
+
+ENDOPERIO_RELATIONSHIP:
+- Primary endodontic with secondary periodontal involvement
+
+PERI_IMPLANT_STATUS:
+- Implant stable with intact bone levels
+
+SOFT_TISSUE_STATUS:
+- Normal soft tissue
+
+CALCULUS_PRESENCE:
+- No calculus
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Fair prognosis
+
+MANAGEMENT_SUGGESTION:
+- Periodontal surgery recommended
+
+NOTES:
+- Correlate clinically.

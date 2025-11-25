@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_condyle
+JAW: mandible
+SIDE: bilateral
+
+TRAUMA_TYPE:
+- Alveolar fracture
+
+FRACTURE_PATTERN:
+- Comminuted fracture
+
+DISPLACEMENT:
+- Severe displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Mild airway narrowing
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Malocclusion suspected
+
+DENTOALVEOLAR_INVOLVEMENT:
+- No dentoalveolar injury
+
+TMJ_STATUS:
+- Condylar displacement
+
+ASSOCIATED_FINDINGS:
+- No additional findings
+
+MANAGEMENT_SUGGESTION:
+- Closed reduction recommended
+
+NOTES:
+- Follow-up imaging recommended.

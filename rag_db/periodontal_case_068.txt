@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 11
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Vertical bone defect (2-wall)
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- Grade III furcation
+
+CORTICAL_PLATE_STATUS:
+- Fenestration observed
+
+ENDOPERIO_RELATIONSHIP:
+- Combined lesion
+
+PERI_IMPLANT_STATUS:
+- No implant present
+
+SOFT_TISSUE_STATUS:
+- Mild gingival inflammation
+
+CALCULUS_PRESENCE:
+- Heavy calculus deposition
+
+CROWN_ROOT_RATIO:
+- Borderline crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Pathologic migration suspected
+
+PROGNOSIS:
+- Fair prognosis
+
+MANAGEMENT_SUGGESTION:
+- Oral hygiene reinforcement
+
+NOTES:
+- Advanced defect – early surgery advisable.

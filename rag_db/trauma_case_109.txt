@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_angle
+JAW: maxilla
+SIDE: right
+
+TRAUMA_TYPE:
+- Le Fort I fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- No displacement
+
+SOFT_TISSUE_STATUS:
+- Hematoma formation
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- Infraorbital nerve involvement
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Luxation injury suspected
+
+TMJ_STATUS:
+- TMJ intact
+
+ASSOCIATED_FINDINGS:
+- Nasal septum deviation
+
+MANAGEMENT_SUGGESTION:
+- Urgent surgical intervention advised
+
+NOTES:
+- CT scan comparison advised.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 46
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Buccolingual tilt
+
+Pell_and_Gregory_CLASS:
+- Class II Position B
+
+DEPTH_RELATIONSHIP:
+- Deep impaction approaching root apex
+
+RAMUS_RELATIONSHIP:
+- Reduced space; moderate difficulty
+
+FINDINGS:
+- Cortical plate thinning present.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic; borderline case.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No cystic changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Anatomy suggests moderate surgical difficulty.

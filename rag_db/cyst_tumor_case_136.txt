@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 46
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Central giant cell granuloma
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Ill‑defined non‑corticated border.
+
+INTERNAL_CONTENT:
+- Mixed radiolucent–radiopaque
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Severe displacement of adjacent teeth.
+
+EXPANSION_PATTERN:
+- Severe expansion in all directions.
+
+CORTICAL_PLATE_STATUS:
+- Intact cortical plate.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Severe displacement.
+
+RESORPTION:
+- Marked root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Aneurysmal bone cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Classic radiographic presentation.

@@ -1,0 +1,40 @@
+CASE_TYPE: trauma
+REGION: mandible_ramust
+JAW: maxilla
+SIDE: left
+
+TRAUMA_TYPE:
+- Le Fort II fracture
+
+FRACTURE_PATTERN:
+- Greenstick fracture
+
+DISPLACEMENT:
+- Moderate displacement
+
+SOFT_TISSUE_STATUS:
+- Subcutaneous emphysema
+
+AIRWAY_IMPACT:
+- Airway obstruction suspected
+
+NEUROVASCULAR_CONCERNS:
+- No neurovascular concerns
+
+OCCLUSAL_DISTURBANCE:
+- Open bite pattern from trauma
+
+DENTOALVEOLAR_INVOLVEMENT:
+- Avulsion of tooth evident
+
+TMJ_STATUS:
+- Articular surface disruption
+
+ASSOCIATED_FINDINGS:
+- Cortical discontinuity
+
+MANAGEMENT_SUGGESTION:
+- Open reduction and internal fixation (ORIF)
+
+NOTES:
+- Monitor healing progression.

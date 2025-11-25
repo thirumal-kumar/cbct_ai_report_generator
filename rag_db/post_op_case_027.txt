@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 13
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Sinus lift
+
+HEALING_STATUS:
+- Good healing progression
+
+IMPLANT_INTEGRATION:
+- Excellent osseointegration
+
+GRAFT_STATUS:
+- Graft failing
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- No infection
+
+PERI_IMPLANT_CHANGES:
+- Severe peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Underfilled
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Cortical remodeling present
+
+ADJACENT_TEETH_EFFECT:
+- Mild displacement
+
+POST_OP_FINDINGS:
+- Suture space visible
+
+MANAGEMENT_SUGGESTION:
+- Urgent intervention required
+
+NOTES:
+- Monitor closely.

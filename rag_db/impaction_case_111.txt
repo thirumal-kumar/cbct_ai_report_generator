@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 38
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class II A
+
+DEPTH_RELATIONSHIP:
+- Below cervical line
+
+RAMUS_RELATIONSHIP:
+- Severely limited space
+
+FINDINGS:
+- No resorption noted.
+
+IMPACTION_ASSESSMENT:
+- High complexity — near IAN canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No pathology.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Flap reflection necessary.

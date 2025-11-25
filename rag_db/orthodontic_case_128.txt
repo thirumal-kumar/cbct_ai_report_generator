@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class I
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Narrow maxilla
+
+AIRWAY_ANALYSIS:
+- Significant oropharyngeal narrowing
+
+IMPACTION_STATUS:
+- Multiple impactions
+
+ASYMMETRY_ANALYSIS:
+- Mild skeletal asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Spacing present
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Non-extraction camouflage treatment
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- Correlate with cephalometric values.

@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 2)
+
+VERTICAL_PATTERN:
+- Normal vertical proportions
+
+TRANSVERSE_RELATIONSHIP:
+- No transverse discrepancy
+
+AIRWAY_ANALYSIS:
+- Mild narrowing
+
+IMPACTION_STATUS:
+- No impacted teeth
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ anatomy normal
+
+DENTAL_ALIGNMENT:
+- Spacing present
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Root proximity risk
+
+EXTRACTION_CONSIDERATION:
+- Extraction not needed
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- Soft tissue profile should be considered.

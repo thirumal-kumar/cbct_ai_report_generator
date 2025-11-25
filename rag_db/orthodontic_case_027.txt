@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxilla–Mandible normal
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 1)
+
+VERTICAL_PATTERN:
+- Hyperdivergent (long face)
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Adequate airway space
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to left
+
+TMJ_RELATIONSHIP:
+- Mild internal derangement
+
+DENTAL_ALIGNMENT:
+- Well-aligned dentition
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- No major risks
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- CBCT confirms skeletal imbalance.

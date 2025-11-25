@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Hyperdivergent (long face)
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Significant oropharyngeal narrowing
+
+IMPACTION_STATUS:
+- No impacted teeth
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ anatomy normal
+
+DENTAL_ALIGNMENT:
+- Well-aligned dentition
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Severe crowding may complicate movement
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- Soft tissue profile should be considered.

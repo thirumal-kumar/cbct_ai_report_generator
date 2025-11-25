@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Hyperdivergent (long face)
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Multiple impactions
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- Mild internal derangement
+
+DENTAL_ALIGNMENT:
+- Well-aligned dentition
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- CBCT confirms skeletal imbalance.

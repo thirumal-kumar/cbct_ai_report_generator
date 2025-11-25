@@ -1,0 +1,34 @@
+CASE_TYPE: endodontic
+REGION: 43
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Normal trabecular architecture; cortical plates intact.
+
+CANAL_MORPHOLOGY:
+- Vertucci Type III
+
+PERIAPICAL_STATUS:
+- Healing periapical lesion suspected.
+
+FINDINGS:
+- No fracture lines; no external resorption detected.
+
+ENDO_ASSESSMENT:
+- Root canal treatment indicated depending on symptoms; morphology accessible.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not involved.
+
+PATHOLOGY_ASSESSMENT:
+- No cystic or granulomatous changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine endodontic morphology; adequate access anticipated.

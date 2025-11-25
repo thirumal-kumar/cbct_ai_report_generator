@@ -1,0 +1,43 @@
+CASE_TYPE: periodontal_bone_loss
+REGION: 15
+JAW: maxilla
+SIDE: right
+
+BONE_LOSS_TYPE:
+- Horizontal bone loss
+
+BONE_LOSS_SEVERITY:
+- Severe (>5 mm)
+
+FURCATION_INVOLVEMENT:
+- No furcation involvement
+
+CORTICAL_PLATE_STATUS:
+- Cortical thinning noted
+
+ENDOPERIO_RELATIONSHIP:
+- No endo-perio lesion
+
+PERI_IMPLANT_STATUS:
+- Implant stable with intact bone levels
+
+SOFT_TISSUE_STATUS:
+- Pocketing consistent with bone loss
+
+CALCULUS_PRESENCE:
+- Moderate calculus
+
+CROWN_ROOT_RATIO:
+- Favorable crown-root ratio
+
+ADJACENT_STRUCTURES_EFFECT:
+- Minor tooth drifting
+
+PROGNOSIS:
+- Fair prognosis
+
+MANAGEMENT_SUGGESTION:
+- Regenerative therapy suggested
+
+NOTES:
+- Monitor progression every 6 months.

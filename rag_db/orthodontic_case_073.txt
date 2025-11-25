@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular prognathism
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 2)
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Mandibular asymmetry
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- Possible disc displacement
+
+DENTAL_ALIGNMENT:
+- Severe crowding
+
+ROOT_PARALLELISM:
+- Good root angulation
+
+ORTHO_RISK_FACTORS:
+- No major risks
+
+EXTRACTION_CONSIDERATION:
+- Extraction not needed
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- Soft tissue profile should be considered.

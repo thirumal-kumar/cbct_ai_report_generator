@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 23
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Partial mucosal thickening.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Severe thickening (>6 mm).
+
+SEPTA_PRESENCE:
+- Multiple septa.
+
+SINUS_ASSESSMENT:
+- Moderate sinus disease.
+
+IMPLANT_ASSESSMENT:
+- Reduced height—consider sinus lift.
+
+ENDO_ASSESSMENT:
+- No endodontic involvement.
+
+PATHOLOGY_ASSESSMENT:
+- Polypoid mucosal change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine case.

@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 25
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Partial mucosal thickening.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Severe thickening (>6 mm).
+
+SEPTA_PRESENCE:
+- No septa.
+
+SINUS_ASSESSMENT:
+- Severe sinus opacification—ENT correlation advised.
+
+IMPLANT_ASSESSMENT:
+- Significant pneumatization limiting implant height.
+
+ENDO_ASSESSMENT:
+- Periapical areas not involving sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- Retention cyst suspected.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Mild variations; no major concern.

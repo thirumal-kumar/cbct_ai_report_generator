@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular prognathism
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class I
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Narrow maxilla
+
+AIRWAY_ANALYSIS:
+- Significant oropharyngeal narrowing
+
+IMPACTION_STATUS:
+- No impacted teeth
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to right
+
+TMJ_RELATIONSHIP:
+- TMJ anatomy normal
+
+DENTAL_ALIGNMENT:
+- Moderate crowding
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- No major risks
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Surgical–orthodontic approach required
+
+NOTES:
+- Further TMJ evaluation recommended.

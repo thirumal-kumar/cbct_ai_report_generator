@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: right
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Reduced superior joint space.
+
+CONDYLAR_POSITION:
+- Centered within glenoid fossa.
+
+ARTICULAR_EMINENCE:
+- Mild erosive change on eminence.
+
+DISK_POSITION:
+- Medial disk displacement.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction on mouth opening.
+
+DEGENERATION_STATUS:
+- Mild cortical irregularity.
+
+TMJ_ASSESSMENT:
+- Moderate TMJ dysfunction.
+
+ORTHO_IMPACT:
+- Occlusal discrepancy related findings.
+
+PATHOLOGY_ASSESSMENT:
+- Mild inflammatory changes.
+
+NOTES:
+- Mild joint remodeling noted.

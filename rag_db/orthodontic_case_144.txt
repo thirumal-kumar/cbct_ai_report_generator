@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxilla–Mandible normal
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class I
+
+VERTICAL_PATTERN:
+- Anterior open bite tendency
+
+TRANSVERSE_RELATIONSHIP:
+- Narrow maxilla
+
+AIRWAY_ANALYSIS:
+- Adequate airway space
+
+IMPACTION_STATUS:
+- Impacted canine (palatal)
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to right
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Severe crowding
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Severe crowding may complicate movement
+
+EXTRACTION_CONSIDERATION:
+- Extraction recommended for alignment
+
+MANAGEMENT_PLAN:
+- Growth modification recommended
+
+NOTES:
+- CBCT confirms skeletal imbalance.

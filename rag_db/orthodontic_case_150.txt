@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxillary deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class I
+
+VERTICAL_PATTERN:
+- Hyperdivergent (long face)
+
+TRANSVERSE_RELATIONSHIP:
+- Posterior crossbite
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (palatal)
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to right
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Moderate crowding
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- No major risks
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- CBCT confirms skeletal imbalance.

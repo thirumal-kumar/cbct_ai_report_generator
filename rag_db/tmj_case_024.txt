@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle well-formed; cortical outline intact.
+
+JOINT_SPACE_EVALUATION:
+- Normal joint space.
+
+CONDYLAR_POSITION:
+- Slight anterior positioning.
+
+ARTICULAR_EMINENCE:
+- Flattened eminence.
+
+DISK_POSITION:
+- Medial disk displacement.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Altered due to anterior displacement.
+
+DEGENERATION_STATUS:
+- Subchondral sclerosis present.
+
+TMJ_ASSESSMENT:
+- Moderate TMJ dysfunction.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- No TMJ pathology.
+
+NOTES:
+- No major concerns.

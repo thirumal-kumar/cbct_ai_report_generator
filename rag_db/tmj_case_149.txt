@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: right
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Reduced anterior joint space.
+
+CONDYLAR_POSITION:
+- Superior loading pattern noted.
+
+ARTICULAR_EMINENCE:
+- Steep eminence.
+
+DISK_POSITION:
+- Posterior displacement.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction; limited mouth opening.
+
+DEGENERATION_STATUS:
+- Early cortical irregularity.
+
+TMJ_ASSESSMENT:
+- Advanced degenerative TMJ changes.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- No pathology.
+
+NOTES:
+- Joint spaces mostly preserved.

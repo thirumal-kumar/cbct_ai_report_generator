@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 14
+JAW: mandible
+SIDE: right
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Ill-defined non-corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Inferior alveolar canal displacement.
+
+EXPANSION_PATTERN:
+- Significant expansion causing cortical thinning.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- Possible perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate root shifting.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation recommended.
+
+NOTES:
+- Follow-up imaging recommended.

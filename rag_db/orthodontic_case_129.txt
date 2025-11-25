@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular deficiency
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 2)
+
+VERTICAL_PATTERN:
+- Normal vertical proportions
+
+TRANSVERSE_RELATIONSHIP:
+- Narrow maxilla
+
+AIRWAY_ANALYSIS:
+- Significant oropharyngeal narrowing
+
+IMPACTION_STATUS:
+- No impacted teeth
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Mild crowding
+
+ROOT_PARALLELISM:
+- Mild divergence
+
+ORTHO_RISK_FACTORS:
+- Root proximity risk
+
+EXTRACTION_CONSIDERATION:
+- Non-extraction camouflage treatment
+
+MANAGEMENT_PLAN:
+- Surgical–orthodontic approach required
+
+NOTES:
+- Further TMJ evaluation recommended.

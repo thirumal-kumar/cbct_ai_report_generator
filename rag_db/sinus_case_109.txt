@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 13
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Partial mucosal thickening.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Fully obstructed.
+
+MUCOSAL_THICKENING:
+- Moderate thickening (4–6 mm).
+
+SEPTA_PRESENCE:
+- Single septum.
+
+SINUS_ASSESSMENT:
+- Moderate sinus disease.
+
+IMPLANT_ASSESSMENT:
+- Severe pneumatization—implant planning limited.
+
+ENDO_ASSESSMENT:
+- Minor proximity of lesion to sinus.
+
+PATHOLOGY_ASSESSMENT:
+- Polypoid mucosal change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Follow up if symptomatic.

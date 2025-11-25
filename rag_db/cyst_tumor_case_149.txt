@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 46
+JAW: mandible
+SIDE: left
+
+LESION_TYPE:
+- Residual cyst
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Honeycomb pattern
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- No displacement.
+
+EXPANSION_PATTERN:
+- Severe expansion in all directions.
+
+CORTICAL_PLATE_STATUS:
+- Intact cortical plate.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- Radicular cyst vs Residual cyst
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization recommended.
+
+NOTES:
+- Classic radiographic presentation.

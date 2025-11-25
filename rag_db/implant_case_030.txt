@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 26
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Sinus floor noted superiorly; buccal and palatal cortices intact.
+
+BONE_DIMENSIONS:
+- Height: 9.9 mm
+- Width: 5.4 mm
+- Density: D2
+
+FINDINGS:
+- Healthy ridge morphology; no cystic or radiolucent areas.
+
+IMPLANT_ASSESSMENT:
+- Adequate bone for standard implant; evaluate sinus proximity if posterior.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Sinus floor proximity moderate.
+
+PATHOLOGY_ASSESSMENT:
+- No mucosal thickening or pathology.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Maxillary case with routine morphology.

@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 46
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Odontogenic keratocyst (OKC)
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Partially corticated with scalloping.
+
+INTERNAL_CONTENT:
+- Honeycomb pattern
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild tooth displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion.
+
+CORTICAL_PLATE_STATUS:
+- Thinned cortex.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- Marked root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Aneurysmal bone cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Large lesion; monitor healing post‑op.

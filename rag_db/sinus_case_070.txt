@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 23
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Moderate opacity.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Severe thickening (>6 mm).
+
+SEPTA_PRESENCE:
+- No septa.
+
+SINUS_ASSESSMENT:
+- Moderate sinus inflammation.
+
+IMPLANT_ASSESSMENT:
+- Significant pneumatization limiting implant height.
+
+ENDO_ASSESSMENT:
+- Periapical areas not involving sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological masses.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Recommend ENT follow-up if symptomatic.

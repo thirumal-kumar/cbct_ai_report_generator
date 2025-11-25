@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 35
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates continuous; adequate cancellous support.
+
+BONE_DIMENSIONS:
+- Height: 9.5 mm
+- Width: 5.5 mm
+- Density: D2–D3
+
+FINDINGS:
+- No cyst, no fracture, no periapical lesion.
+
+IMPLANT_ASSESSMENT:
+- Favorable bone conditions for implant placement.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- No sinus relevance (mandible case).
+
+PATHOLOGY_ASSESSMENT:
+- No pathological findings.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Standard morphology; no complications expected.

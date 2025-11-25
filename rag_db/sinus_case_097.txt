@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 25
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Clear sinus.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Fully obstructed.
+
+MUCOSAL_THICKENING:
+- No thickening (<2 mm).
+
+SEPTA_PRESENCE:
+- No septa.
+
+SINUS_ASSESSMENT:
+- Findings suggest mild sinusitis.
+
+IMPLANT_ASSESSMENT:
+- Reduced sinus floor height; consider sinus lift.
+
+ENDO_ASSESSMENT:
+- Endodontic lesion likely affecting sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological masses.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine maxillary sinus pattern.

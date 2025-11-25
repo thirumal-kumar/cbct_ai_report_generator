@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Normal joint space.
+
+CONDYLAR_POSITION:
+- Centered within fossa.
+
+ARTICULAR_EMINENCE:
+- Small erosive change present.
+
+DISK_POSITION:
+- Anterior displacement without reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Normal disk-condyle coordination.
+
+DEGENERATION_STATUS:
+- No degenerative change.
+
+TMJ_ASSESSMENT:
+- Internal derangement suspected.
+
+ORTHO_IMPACT:
+- Possible mandibular deviation due to condylar asymmetry.
+
+PATHOLOGY_ASSESSMENT:
+- Mild inflammatory changes.
+
+NOTES:
+- Correlation with TMJ symptoms advised.

@@ -1,0 +1,22 @@
+{
+  "shape": [
+    218,
+    640,
+    640
+  ],
+  "metadata": {
+    "n_slices": 218,
+    "pixel_spacing": 0.25,
+    "slice_thickness": 0.25
+  },
+  "stats": {
+    "mean": 538.098876953125,
+    "std": 650.90625,
+    "min": 0.0,
+    "max": 4095.0
+  },
+  "thickness_example": {
+    "thickness_vox": 0,
+    "thickness_mm": 0
+  }
+}

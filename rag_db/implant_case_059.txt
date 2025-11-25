@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 23
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; normal trabecular pattern; neurovascular structures respected.
+
+BONE_DIMENSIONS:
+- Height: 11.6 mm
+- Width: 5.8 mm
+- Density: D2–D3
+
+FINDINGS:
+- No pathology, cyst, or fracture; bone morphology favorable.
+
+IMPLANT_ASSESSMENT:
+- Implant feasible; observe safety margin to canals/sinus as applicable.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Sinus floor moderately elevated; adequate clearance.
+
+PATHOLOGY_ASSESSMENT:
+- No radiolucent or radiopaque abnormalities.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine morphology with adequate bone for standard implant placement.

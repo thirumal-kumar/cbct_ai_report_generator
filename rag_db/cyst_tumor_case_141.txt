@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 12
+JAW: mandible
+SIDE: left
+
+LESION_TYPE:
+- Central giant cell granuloma
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Ill‑defined non‑corticated border.
+
+INTERNAL_CONTENT:
+- Honeycomb pattern
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- No displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion.
+
+CORTICAL_PLATE_STATUS:
+- Intact cortical plate.
+
+PERFORATION_STATUS:
+- Definite cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Aneurysmal bone cyst
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation required.
+
+NOTES:
+- Histopathology needed for confirmation.

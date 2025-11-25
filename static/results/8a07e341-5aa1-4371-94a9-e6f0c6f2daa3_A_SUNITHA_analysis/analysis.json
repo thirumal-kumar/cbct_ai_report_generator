@@ -1,0 +1,90 @@
+{
+  "timestamp": "2025-11-25T17:38:38.952540",
+  "measurements": {
+    "shape_z_y_x": [
+      400,
+      400,
+      400
+    ],
+    "voxel_size_mm": [
+      0.4,
+      0.4,
+      0.4
+    ],
+    "hu_mean": 240.25315856933594,
+    "hu_min": 0.0,
+    "hu_max": 4095.0,
+    "warnings": []
+  },
+  "teeth": {
+    "method": "heuristic",
+    "status": "ok"
+  },
+  "sinus": {
+    "volume_voxels": 47492513,
+    "mask_saved": true
+  },
+  "airway": {
+    "volume_mm3": 2985050.752000001
+  },
+  "canals": [],
+  "thickness_stats": {
+    "cortical_mean": 0.0,
+    "cortical_max": 0.0
+  },
+  "periapicals": [
+    {
+      "centroid": [
+        197.89886107207153,
+        193.07551018231675,
+        197.09984349416533
+      ],
+      "area_voxels": 47258302
+    },
+    {
+      "centroid": [
+        128.1259259259259,
+        329.73333333333335,
+        79.93333333333334
+      ],
+      "area_voxels": 135
+    },
+    {
+      "centroid": [
+        146.38353115727003,
+        226.63056379821958,
+        239.35793768545994
+      ],
+      "area_voxels": 2696
+    },
+    {
+      "centroid": [
+        152.348,
+        297.72,
+        72.24
+      ],
+      "area_voxels": 250
+    },
+    {
+      "centroid": [
+        174.93203883495147,
+        149.45769764216365,
+        130.72260748959778
+      ],
+      "area_voxels": 721
+    },
+    {
+      "centroid": [
+        198.72380952380954,
+        228.44126984126984,
+        180.23174603174604
+      ],
+      "area_voxels": 315
+    }
+  ],
+  "ridge": {
+    "ridge_peak_index": 128,
+    "col_profile_mean": 181590.765625
+  },
+  "warnings": []
+}

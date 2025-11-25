@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 41
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Uniform cortical outline; adequate cancellous volume; anatomical landmarks preserved.
+
+BONE_DIMENSIONS:
+- Height: 9.2 mm
+- Width: 5.1 mm
+- Density: D2–D3
+
+FINDINGS:
+- No lesions; bone contours normal.
+
+IMPLANT_ASSESSMENT:
+- Favorable for implant; verify clearance to canal or sinus.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Not relevant (mandible case).
+
+PATHOLOGY_ASSESSMENT:
+- No pathological changes present.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Straightforward implant planning expected.

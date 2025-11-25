@@ -1,0 +1,34 @@
+CASE_TYPE: endodontic
+REGION: 41
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Normal cortical boundaries; intact trabecular bone.
+
+CANAL_MORPHOLOGY:
+- MB2 canal clearly visualized
+
+PERIAPICAL_STATUS:
+- No periapical radiolucency.
+
+FINDINGS:
+- No fracture; no external resorption.
+
+ENDO_ASSESSMENT:
+- Complex curvature requires careful shaping strategy.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not relevant.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological changes seen.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Anatomy favorable for predictable outcome.

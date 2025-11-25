@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 13
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Residual cyst
+
+LOCATION:
+- Associated with tooth-bearing region.
+
+BORDER_CHARACTER:
+- Ill‑defined non‑corticated border.
+
+INTERNAL_CONTENT:
+- Mixed radiolucent–radiopaque
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild tooth displacement.
+
+EXPANSION_PATTERN:
+- Severe expansion in all directions.
+
+CORTICAL_PLATE_STATUS:
+- Thinned cortex.
+
+PERFORATION_STATUS:
+- Possible perforation.
+
+DISPLACEMENT_ROOTS:
+- Mild displacement.
+
+RESORPTION:
+- No root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- OKC vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization recommended.
+
+NOTES:
+- Histopathology needed for confirmation.

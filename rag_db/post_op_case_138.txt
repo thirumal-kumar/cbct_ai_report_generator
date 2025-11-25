@@ -1,0 +1,46 @@
+CASE_TYPE: postoperative_complication
+REGION: 34
+JAW: maxilla
+SIDE: left
+
+PROCEDURE_TYPE:
+- Sinus lift
+
+HEALING_STATUS:
+- Healing within normal limits
+
+IMPLANT_INTEGRATION:
+- Insufficient integration
+
+GRAFT_STATUS:
+- Partial graft resorption
+
+SINUS_LIFT_STATUS:
+- Sinus membrane intact
+
+POST_OP_INFECTION_STATUS:
+- Severe infection requiring intervention
+
+PERI_IMPLANT_CHANGES:
+- Severe peri-implantitis
+
+ENDODONTIC_RETRY_STATUS:
+- Fully obturated with good seal
+
+SOFT_TISSUE_HEALING:
+- Gingival recession
+
+CORTICAL_STATUS:
+- Mild cortical thinning
+
+ADJACENT_TEETH_EFFECT:
+- Contact loss or spacing present
+
+POST_OP_FINDINGS:
+- Bone density increasing
+
+MANAGEMENT_SUGGESTION:
+- Surgical correction advised
+
+NOTES:
+- Recommend clinical examination.

@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 37
+JAW: mandible
+SIDE: left
+
+LESION_TYPE:
+- Residual cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Mild displacement of teeth.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion noted.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Severe displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Enucleation recommended.
+
+NOTES:
+- Lesion size suggests early intervention.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 37
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Mesioangular
+
+Pell_and_Gregory_CLASS:
+- Class I Position A
+
+DEPTH_RELATIONSHIP:
+- Crown midway to CEJ
+
+RAMUS_RELATIONSHIP:
+- Adequate space between ramus and distal crown
+
+FINDINGS:
+- Distal crown caries present.
+
+IMPACTION_ASSESSMENT:
+- Observe if asymptomatic; borderline case.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No pathology detected.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Visibility limited; flap elevation required.

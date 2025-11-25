@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Mandibular prognathism
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class II (Division 2)
+
+VERTICAL_PATTERN:
+- Hypodivergent (short face)
+
+TRANSVERSE_RELATIONSHIP:
+- No transverse discrepancy
+
+AIRWAY_ANALYSIS:
+- Significant oropharyngeal narrowing
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- Mandibular deviation to right
+
+TMJ_RELATIONSHIP:
+- TMJ flattening observed
+
+DENTAL_ALIGNMENT:
+- Mild crowding
+
+ROOT_PARALLELISM:
+- Good root angulation
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Possible premolar extractions
+
+MANAGEMENT_PLAN:
+- Interceptive ortho indicated
+
+NOTES:
+- Correlate with cephalometric values.

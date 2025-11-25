@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 14
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Mild haziness.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Mild thickening (2–4 mm).
+
+SEPTA_PRESENCE:
+- No septa.
+
+SINUS_ASSESSMENT:
+- Mild sinusitis changes.
+
+IMPLANT_ASSESSMENT:
+- Reduced height—consider sinus lift.
+
+ENDO_ASSESSMENT:
+- No endodontic involvement.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological mass.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Minor variations noted.

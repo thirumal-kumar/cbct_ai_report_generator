@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 35
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Residual cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Ill-defined non-corticated border.
+
+INTERNAL_CONTENT:
+- Mixed radiolucent-radiopaque
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Inferior alveolar canal displacement.
+
+EXPANSION_PATTERN:
+- Minimal expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortex thinned.
+
+PERFORATION_STATUS:
+- Clear cortical perforation.
+
+DISPLACEMENT_ROOTS:
+- No displacement.
+
+RESORPTION:
+- Severe root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- OKC vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision indicated.
+
+NOTES:
+- Correlate clinically and histopathologically.

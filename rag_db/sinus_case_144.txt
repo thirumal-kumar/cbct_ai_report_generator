@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 14
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Severe opacity indicating sinusitis.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- No thickening (<2 mm).
+
+SEPTA_PRESENCE:
+- Multiple septa.
+
+SINUS_ASSESSMENT:
+- Moderate sinus disease.
+
+IMPLANT_ASSESSMENT:
+- Adequate sinus floor for implant.
+
+ENDO_ASSESSMENT:
+- No endodontic involvement.
+
+PATHOLOGY_ASSESSMENT:
+- Possible retention cyst.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Follow up if symptomatic.

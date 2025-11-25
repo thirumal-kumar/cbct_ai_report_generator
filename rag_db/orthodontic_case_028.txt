@@ -1,0 +1,43 @@
+CASE_TYPE: orthodontic_skeletal
+REGION: craniofacial_complex
+JAW_RELATIONSHIP:
+- Maxilla–Mandible normal
+
+SKELETAL_CLASSIFICATION:
+- Skeletal Class III
+
+VERTICAL_PATTERN:
+- Hypodivergent (short face)
+
+TRANSVERSE_RELATIONSHIP:
+- No transverse discrepancy
+
+AIRWAY_ANALYSIS:
+- Adenoid hypertrophy suspected
+
+IMPACTION_STATUS:
+- Impacted canine (labial)
+
+ASYMMETRY_ANALYSIS:
+- No facial asymmetry
+
+TMJ_RELATIONSHIP:
+- Mild internal derangement
+
+DENTAL_ALIGNMENT:
+- Severe crowding
+
+ROOT_PARALLELISM:
+- Possible root collision risk
+
+ORTHO_RISK_FACTORS:
+- Thin labial bone plates
+
+EXTRACTION_CONSIDERATION:
+- Non-extraction camouflage treatment
+
+MANAGEMENT_PLAN:
+- Comprehensive ortho treatment suggested
+
+NOTES:
+- Soft tissue profile should be considered.

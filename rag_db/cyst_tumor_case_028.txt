@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 24
+JAW: maxilla
+SIDE: right
+
+LESION_TYPE:
+- Adenomatoid odontogenic tumor
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Ill-defined non-corticated border.
+
+INTERNAL_CONTENT:
+- Soap-bubble appearance
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Significant displacement of adjacent structures.
+
+EXPANSION_PATTERN:
+- Minimal expansion.
+
+CORTICAL_PLATE_STATUS:
+- Cortex intact.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- No displacement.
+
+RESORPTION:
+- Mild root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Marsupialization advised.
+
+NOTES:
+- Classic radiographic presentation.

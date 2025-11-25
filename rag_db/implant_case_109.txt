@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 15
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; no dehiscence; neurovascular structures respected.
+
+BONE_DIMENSIONS:
+- Height: 9.7 mm
+- Width: 5.3 mm
+- Density: D2
+
+FINDINGS:
+- No pathology; bone contours stable.
+
+IMPLANT_ASSESSMENT:
+- Suitable for implant; verify vertical clearance.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Posterior sinus floor moderately close.
+
+PATHOLOGY_ASSESSMENT:
+- Normal osseous pattern; no abnormalities.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Good anatomical conditions for predictable implant placement.

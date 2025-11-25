@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 14
+JAW: maxilla
+SIDE: left
+
+LESION_TYPE:
+- Radicular cyst
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Ill-defined non-corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Significant displacement of adjacent structures.
+
+EXPANSION_PATTERN:
+- Significant expansion causing cortical thinning.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- No displacement.
+
+RESORPTION:
+- Severe root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- CGCG vs Ameloblastoma
+
+RECOMMENDED_MANAGEMENT:
+- Surgical excision indicated.
+
+NOTES:
+- Lesion size suggests early intervention.

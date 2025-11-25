@@ -1,0 +1,43 @@
+CASE_TYPE: cyst_tumor
+REGION: 45
+JAW: mandible
+SIDE: left
+
+LESION_TYPE:
+- Central giant cell granuloma
+
+LOCATION:
+- Associated with tooth region.
+
+BORDER_CHARACTER:
+- Well-defined corticated border.
+
+INTERNAL_CONTENT:
+- Radiolucent
+
+EFFECT_ON_ADJACENT_STRUCTURES:
+- Inferior alveolar canal displacement.
+
+EXPANSION_PATTERN:
+- Buccolingual expansion noted.
+
+CORTICAL_PLATE_STATUS:
+- Cortical breach suspected.
+
+PERFORATION_STATUS:
+- No perforation.
+
+DISPLACEMENT_ROOTS:
+- Moderate root shifting.
+
+RESORPTION:
+- Severe root resorption.
+
+DIFFERENTIAL_DIAGNOSIS:
+- AOT vs Dentigerous cyst
+
+RECOMMENDED_MANAGEMENT:
+- Biopsy for confirmation.
+
+NOTES:
+- Classic radiographic presentation.

@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 25
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Sinus walls intact; orbital floor normal.
+
+SINUS_OPACITY_LEVEL:
+- Mild haziness.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Moderate thickening (4–6 mm).
+
+SEPTA_PRESENCE:
+- Single septum present.
+
+SINUS_ASSESSMENT:
+- Moderate sinus inflammation.
+
+IMPLANT_ASSESSMENT:
+- Adequate sinus floor height.
+
+ENDO_ASSESSMENT:
+- Endodontic lesion likely affecting sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological masses.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Anatomy favorable for implant planning.

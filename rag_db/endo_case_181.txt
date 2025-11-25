@@ -1,0 +1,34 @@
+CASE_TYPE: endodontic
+REGION: 11
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Normal cortical boundaries; intact trabecular bone.
+
+CANAL_MORPHOLOGY:
+- C-shaped canal configuration
+
+PERIAPICAL_STATUS:
+- Signs consistent with early healing.
+
+FINDINGS:
+- No fracture; no external resorption.
+
+ENDO_ASSESSMENT:
+- Favorable access and shaping anatomy.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Maxillary sinus floor not involved.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological changes seen.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Possible early healing changes noted.

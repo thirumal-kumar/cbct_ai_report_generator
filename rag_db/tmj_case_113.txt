@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: right
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Widened joint space with suspected effusion.
+
+CONDYLAR_POSITION:
+- Centered within fossa.
+
+ARTICULAR_EMINENCE:
+- Small erosive change present.
+
+DISK_POSITION:
+- Anterior displacement without reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- Altered movement with clicking.
+
+DEGENERATION_STATUS:
+- Early cortical irregularity.
+
+TMJ_ASSESSMENT:
+- Advanced degenerative TMJ changes.
+
+ORTHO_IMPACT:
+- Occlusal plane discrepancy related to joint condition.
+
+PATHOLOGY_ASSESSMENT:
+- Possible degenerative remodeling.
+
+NOTES:
+- Flattening suggests chronic remodeling.

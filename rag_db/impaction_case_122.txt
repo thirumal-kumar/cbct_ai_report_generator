@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 48
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Inverted
+
+Pell_and_Gregory_CLASS:
+- Class III C
+
+DEPTH_RELATIONSHIP:
+- Moderate depth
+
+RAMUS_RELATIONSHIP:
+- Adequate space
+
+FINDINGS:
+- Possible resorption on adjacent molar.
+
+IMPACTION_ASSESSMENT:
+- High complexity — near IAN canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Mild cystic change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Standard impaction morphology.

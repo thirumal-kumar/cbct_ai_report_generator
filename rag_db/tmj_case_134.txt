@@ -1,0 +1,36 @@
+CASE_TYPE: tmj
+REGION: TMJ
+SIDE: left
+
+ANATOMY:
+- Condyle smooth; cortical borders intact.
+
+JOINT_SPACE_EVALUATION:
+- Reduced superior joint space.
+
+CONDYLAR_POSITION:
+- Centered within fossa.
+
+ARTICULAR_EMINENCE:
+- Normal eminence morphology.
+
+DISK_POSITION:
+- Anterior displacement without reduction.
+
+DISK_CONDYLE_RELATIONSHIP:
+- No reduction; limited mouth opening.
+
+DEGENERATION_STATUS:
+- Subchondral sclerosis with flattening.
+
+TMJ_ASSESSMENT:
+- TMJ anatomy within normal limits.
+
+ORTHO_IMPACT:
+- No orthodontic influence.
+
+PATHOLOGY_ASSESSMENT:
+- Possible degenerative remodeling.
+
+NOTES:
+- Flattening suggests chronic remodeling.

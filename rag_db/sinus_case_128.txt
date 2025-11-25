@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 24
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Clear sinus.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- No thickening (<2 mm).
+
+SEPTA_PRESENCE:
+- Single septum.
+
+SINUS_ASSESSMENT:
+- Severe inflammation—ENT referral suggested.
+
+IMPLANT_ASSESSMENT:
+- Severe pneumatization—implant planning limited.
+
+ENDO_ASSESSMENT:
+- Endodontic lesion likely influencing sinus floor.
+
+PATHOLOGY_ASSESSMENT:
+- Polypoid mucosal change.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine case.

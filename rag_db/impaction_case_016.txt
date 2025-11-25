@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 46
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Buccolingual tilt
+
+Pell_and_Gregory_CLASS:
+- Class I Position B
+
+DEPTH_RELATIONSHIP:
+- Crown midway to CEJ
+
+RAMUS_RELATIONSHIP:
+- Reduced space; moderate difficulty
+
+FINDINGS:
+- No caries; no root resorption.
+
+IMPACTION_ASSESSMENT:
+- Extraction feasible; minimal curvature.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Possible early cyst formation.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Sectioning likely required.

@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 46
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; IA canal located inferiorly.
+
+BONE_DIMENSIONS:
+- Height: 9.6 mm
+- Width: 5.2 mm
+- Density: D2–D3
+
+FINDINGS:
+- No pathology; trabecular pattern normal.
+
+IMPLANT_ASSESSMENT:
+- Adequate bone for standard implant placement.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- No sinus involvement (mandibular case).
+
+PATHOLOGY_ASSESSMENT:
+- No radiolucency or cortical perforation.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine morphology with adequate bone volume.

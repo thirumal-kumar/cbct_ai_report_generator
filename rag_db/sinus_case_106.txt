@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 27
+JAW: maxilla
+SIDE: left
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Clear sinus.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Partially obstructed.
+
+MUCOSAL_THICKENING:
+- Severe thickening (>6 mm).
+
+SEPTA_PRESENCE:
+- Multiple septa.
+
+SINUS_ASSESSMENT:
+- Moderate sinus disease.
+
+IMPLANT_ASSESSMENT:
+- Adequate sinus floor for implant.
+
+ENDO_ASSESSMENT:
+- Minor proximity of lesion to sinus.
+
+PATHOLOGY_ASSESSMENT:
+- No pathological mass.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Implant planning requires height evaluation.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 38
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Cortical plates intact; inferior alveolar nerve canal identifiable.
+
+ANGULATION_CLASSIFICATION:
+- Vertical
+
+Pell_and_Gregory_CLASS:
+- Class III Position C
+
+DEPTH_RELATIONSHIP:
+- Crown midway to CEJ
+
+RAMUS_RELATIONSHIP:
+- Reduced space; moderate difficulty
+
+FINDINGS:
+- No caries; no root resorption.
+
+IMPACTION_ASSESSMENT:
+- High difficulty; proximity to nerve canal.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- Mild follicular expansion.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Care needed near neurovascular bundle.

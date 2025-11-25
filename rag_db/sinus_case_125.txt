@@ -1,0 +1,37 @@
+CASE_TYPE: sinus
+REGION: 26
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Maxillary sinus walls intact; normal orbital floor.
+
+SINUS_OPACITY_LEVEL:
+- Moderate opacity suggestive of inflammation.
+
+OSTEOMEATAL_COMPLEX_STATUS:
+- Patent.
+
+MUCOSAL_THICKENING:
+- Mild thickening (2–4 mm).
+
+SEPTA_PRESENCE:
+- No septa.
+
+SINUS_ASSESSMENT:
+- Mild sinusitis changes.
+
+IMPLANT_ASSESSMENT:
+- Adequate sinus floor for implant.
+
+ENDO_ASSESSMENT:
+- Minor proximity of lesion to sinus.
+
+PATHOLOGY_ASSESSMENT:
+- No destructive changes.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Routine case.

@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 45
+JAW: mandible
+SIDE: right
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Inverted
+
+Pell_and_Gregory_CLASS:
+- Class II B
+
+DEPTH_RELATIONSHIP:
+- Below cervical line
+
+RAMUS_RELATIONSHIP:
+- Reduced space
+
+FINDINGS:
+- Possible resorption on adjacent molar.
+
+IMPACTION_ASSESSMENT:
+- Extraction recommended.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No pathology.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Standard impaction morphology.

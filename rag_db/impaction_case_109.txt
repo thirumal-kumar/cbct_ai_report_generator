@@ -1,0 +1,43 @@
+CASE_TYPE: impaction
+REGION: 34
+JAW: mandible
+SIDE: left
+
+ANATOMY:
+- Inferior alveolar canal visualized; cortical outline intact.
+
+ANGULATION_CLASSIFICATION:
+- Distoangular
+
+Pell_and_Gregory_CLASS:
+- Class I B
+
+DEPTH_RELATIONSHIP:
+- Superficial
+
+RAMUS_RELATIONSHIP:
+- Reduced space
+
+FINDINGS:
+- No resorption noted.
+
+IMPACTION_ASSESSMENT:
+- Consider coronectomy.
+
+ENDO_ASSESSMENT:
+- Not applicable.
+
+IMPLANT_ASSESSMENT:
+- Not applicable.
+
+SINUS_ASSESSMENT:
+- Not applicable (mandible).
+
+PATHOLOGY_ASSESSMENT:
+- No pathology.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Nerve proximity requires caution.

@@ -1,0 +1,33 @@
+CASE_TYPE: implant
+REGION: 14
+JAW: maxilla
+SIDE: right
+
+ANATOMY:
+- Cortical plates intact; no fenestration; sinus or canal proximity as applicable.
+
+BONE_DIMENSIONS:
+- Height: 9.2 mm
+- Width: 5.3 mm
+- Density: D2
+
+FINDINGS:
+- Healthy bone structure; no pathology detected.
+
+IMPLANT_ASSESSMENT:
+- Implant placement suitable with adequate vertical and horizontal support.
+
+ENDODONTIC_ASSESSMENT:
+- Not applicable for implant-focused case.
+
+SINUS_ASSESSMENT:
+- Posterior sinus approximated; maintain vertical clearance.
+
+PATHOLOGY_ASSESSMENT:
+- No abnormal radiographic findings.
+
+ORTHO_ASSESSMENT:
+- Not applicable.
+
+NOTES:
+- Consistent and favorable structure for implant placement.
