@@ -1,13 +1,53 @@
+# Byte-compiled / cache
 __pycache__/
 *.pyc
-*.dcm
-*.zip
-*.pdf
-*.docx
-temp_*/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.cbct_env/
+env/
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# DICOM uploads and previews
 uploaded_cases/
-templates/
+uploads/
+*.dcm
+*.dicom
+
+# Previews and tmp outputs
+static/previews/
+tmp/
+temp/
+*.png
+*.jpg
+*.jpeg
+
+# Reports generated
 static/results/*.pdf
 static/results/*.docx
-streamlit_logs/
-rag_index.*
+
+# Large template PDFs/DOCX if not needed
+templates/*.pdf
+templates/*.docx
+
+# Model checkpoints
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python build stuff
+build/
+dist/
+*.egg-info
