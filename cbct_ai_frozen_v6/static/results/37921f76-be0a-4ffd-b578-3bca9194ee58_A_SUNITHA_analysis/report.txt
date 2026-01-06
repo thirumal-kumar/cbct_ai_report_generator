@@ -1,0 +1,32 @@
+CBCT AI REPORT
+Generated: 2025-11-25 17:14:34
+Patient: (anonymized — no identifiers supplied)
+
+1. Scan Details
+- Source file: /tmp/cbct_upload_37921f76-be0a-4ffd-b578-3bca9194ee58/37921f76-be0a-4ffd-b578-3bca9194ee58_A_SUNITHA.dcm
+- Voxel size (approx): (0.4, 0.4, 0.4)
+
+2. Image Quality
+- Image quality adequate for automated analysis unless stated otherwise.
+
+3. Findings
+- Volume shape (Z,Y,X): (400, 400, 400)
+- Mean HU (approx): 240.3; min 0.0; max 4095.0
+- Maxillary sinus: estimated aeration mask present; voxel count 47492513 (quantitative assessment).
+- Airway volume (automated estimate): 2985050.8 mm³
+- Mandibular canal: no clear tubular canal region identified by heuristic.
+- Periapical low-density candidates: 6 (low confidence). Correlate with periapical radiographs.
+- Cortical thickness (mean projection approx): 0.00 (voxels units).
+
+4. Impression
+- Possible periapical low-density region(s) identified (low confidence). Correlate clinically and with periapical radiographs.
+- No gross destructive osseous lesion identified on this automated pass.
+
+5. Recommendations
+- Correlate imaging with clinical findings and intraoral/periapical radiographs.
+- For implant planning, perform dedicated cross-sectional measurements at proposed site.
+- If suspicious lesion persists, consider targeted CBCT/clinical evaluation or specialist referral.
+
+Radiologist:
+Name: _______________________
+Date: 2025-11-25
